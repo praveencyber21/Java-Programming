@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-class Array {
+public class Arraydel {
     
      static public int[] removeTheElement( int arr1[], int index){
         int i, k;
